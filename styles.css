@@ -1,0 +1,26 @@
+h1 {
+    color:rgba(167, 3, 3, 0.959); 
+}
+
+h3 {
+    
+    font-family: "Lucida Console", "Courier New", monospace;
+      
+}
+
+h4 {
+    color: rgb(184, 47, 5);
+}
+
+.green {
+    color:green;
+}
+
+.box {
+    height: 50px;
+    width: 800px;
+    padding: 20px;
+    margin: 50px;
+    Border: 10px solid black;
+    background-color: rgb(122, 119, 119, 0.25);
+}
