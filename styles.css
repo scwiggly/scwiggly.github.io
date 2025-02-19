@@ -1,10 +1,23 @@
 h1 {
-    color:rgba(167, 3, 3, 0.959); 
+    color: #4C191B; 
+    text-align: center;
+    
+    font-family: "Orbitron", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+
+    font-size: 270%;
 }
 
-h3 {
+h2 {
     
-    font-family: "Lucida Console", "Courier New", monospace;
+    
+    font-family: "Orbitron", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 170%;
       
 }
 
@@ -12,15 +25,40 @@ h4 {
     color: rgb(184, 47, 5);
 }
 
+.boby{
+    background-color: #d1d1d1
+}
+    
+
+
+.top {
+    height: 60px;
+    width: 100%;
+    padding: 40px;
+    margin: 5px;
+    background: rgb(2,0,36);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(246,150,0,1) 100%, rgba(0,212,255,1) 100%);
+
+}
+
+.bottom{
+    height: 15%;
+    width: 100%;
+    padding: 40px;
+    margin: 5px;
+    background-color: #7067cf;
+}
+
 .green {
     color:green;
 }
 
 .box {
-    height: 50px;
+    height: 100px;
     width: 800px;
     padding: 20px;
-    margin: 50px;
+    margin: 50x;
     Border: 10px solid black;
     background-color: rgb(122, 119, 119, 0.25);
 }
